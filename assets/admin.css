@@ -1,0 +1,16 @@
+.wbcom-cart-rules-admin input[type="text"],
+.wbcom-cart-rules-admin input[type="number"],
+.wbcom-cart-rules-admin select {
+    width: 300px;
+    margin-bottom: 8px;
+}
+.wbcom-cart-rules-admin .description {
+    font-size: 12px;
+    color: #666;
+}
+.wbcom-cart-rules-admin h1 {
+    margin-bottom: 18px;
+}
+.wbcom-cart-rules-admin .form-table th {
+    width: 220px;
+}

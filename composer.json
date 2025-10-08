@@ -1,0 +1,11 @@
+{
+    "name": "wbcom/cart-rules",
+    "description": "WooCommerce Cart Rules plugin for discounts and rewards",
+    "type": "wordpress-plugin",
+    "autoload": {
+        "psr-4": {
+            "WBCOM\\CartRules\\": "src/"
+        }
+    },
+    "require": {}
+}
