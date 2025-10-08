@@ -63,9 +63,6 @@
   Time: 00:01, Memory: 4.00 MB
   ```
 
-## Submission
-
-- Provide GitHub repo link, screenshots/GIFs of settings/cart, and this README.
 
 ---
 
